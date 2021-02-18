@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Ishai
 - 👀 I’m interested in Full Stack Web Applications development.
-- 🌱 I’m currently learning and acquired skills in the following:  CSS\HTML, JS (React, NodeJS), C, CPP, Java and Python.
+- 🌱 I’m currently learning and acquired skills in the following:  CSS\HTML, JS (React, NodeJS), C, CPP, Java and Python. 
 <!---- 💞️ I’m looking to collaborate on ...--->
 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=ishaishai&show_icons=true&theme=nord)
 
 <!---
 ishaishai/ishaishai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
