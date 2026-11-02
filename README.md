@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Ishai
-- 👀 I’m interested in Full Stack Web Applications development.
-- 🌱 I’m currently learning and acquired skills in the following:  CSS\HTML, JS (React, NodeJS), C, CPP, Java and Python. 
-
-Please have a look at my portfolio: 
-https://portfolio-6772a.web.app
 <!---- 💞️ I’m looking to collaborate on ...--->
 <!----<br/><br/>
 <span style="display:block;text-align:center">
